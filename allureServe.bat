@@ -1,0 +1,1 @@
+allure serve %CD%\Build\Allure-results

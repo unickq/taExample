@@ -1,0 +1,13 @@
+﻿{
+  "allure": {
+    "directory": "allure-results",
+    "title": "Test Automation Example",
+    "links": [
+      "{link}",
+      "https://www.google.com/search?q={issue}"
+    ],
+    "brokenTestData": [
+      "System.Exception"
+    ]
+  }
+}

@@ -1,0 +1,1 @@
+dotnet test -s=TestData\bing.runsettings -o=Build

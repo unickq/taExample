@@ -1,0 +1,1 @@
+dotnet test -s=TestData\google.runsettings -o=Build

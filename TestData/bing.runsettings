@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RunSettings>
+  <NUnit>
+    <NumberOfTestWorkers>2</NumberOfTestWorkers>
+  </NUnit>
+  <TestRunParameters>
+    <Parameter name="searchEngine" value="bing" />
+    <Parameter name="testData" value="TestData\\prod.csv" />
+  </TestRunParameters>
+</RunSettings>

@@ -1,0 +1,1 @@
+dotnet test -s=TestData\ddg.runsettings -o=Build
